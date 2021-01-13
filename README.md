@@ -32,7 +32,7 @@ There are many ways to run python programs. Jupyter notebooks is one method that
 
 Anconda contains a powerful package and environment management tool called Conda. Later in the course we may need to install an additional Python package or two using Conda. This tool is accessed from the command line. If you are not comfortable with the command line yet, don’t worry, almost everything you need is contained in the initial Anaconda installation. The use of the Conda tool will be demonstrated in lectures when it is required. More information on Conda can be found here: https://conda.io/docs/
 
-A text editor program is also required to edit Python programs.  The default notepad or textEdit applications included with Windows and MacOs respectively are not sufficient. Luckily, there are many good options, a few are listed below:
+A text editor is also required to edit Python programs.  The default notepad or textEdit applications included with Windows and MacOs respectively are not sufficient. Luckily, there are many good options, a few are listed below:
 
 A nice cross-platform option is Sublime text editor, find it here:  https://www.sublimetext.com/
 
