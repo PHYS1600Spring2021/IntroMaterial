@@ -8,7 +8,7 @@ You should be able to use the hub for all assignments and lecture workbooks in P
 
 ## Accessing Lecture Material
 
-Please create your own local **clone** of this repo on your [Jupyter Hub](https://phys1600.jupyter.brown.edu), local machine, or both (the last option is best).
+Please create your own local **clone** of this repo on your [Jupyter Hub](https://phys1600.jupyter.brown.edu), local machine, or both. The second option is best. Using git, we can access and work on our projects from many places at once.
 
 Instructions for cloning a repo can be found here:
 
