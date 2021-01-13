@@ -2,7 +2,9 @@
 
 ## Running python on the PHYS 1600 Jupyter Hub
 
-Phys 1600/2600 has it's own dedicated Jupyter Hub server which can be accessed at https://phys1600.jupyter.brown.edu. All you need is a web browser and a Brown login and you can start programming in Python on the hub! You should be able to use the hub for all assignments lecture workbooks in PHYS1600/2600. I recommend that you also install Python on your local machine following the instructions below.
+Phys 1600/2600 has it's own dedicated Jupyter Hub server which can be accessed at https://phys1600.jupyter.brown.edu. All you need is a web browser and a Brown login and you can start programming in Python on the hub!
+
+You should be able to use the hub for all assignments and lecture workbooks in PHYS1600/2600. I recommend that you also install Python on your local machine following the instructions below.
 
 ## Accessing Lecture Material
 
