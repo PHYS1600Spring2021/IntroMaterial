@@ -28,7 +28,7 @@ The easiest way to test your python installation is to open the Jupyter notebook
 
 To close Jupyter program, close the tab on your browser, then go to the terminal, which is open, and press ctrl+c and then close the terminal. 
 
-Note that there are many ways to run python programs. Jupyter notebooks is one method that is particularly well suited to scientific analysis, but depending on the problem or your personal preferences another method may be better. We will explore other ways of running python programs in class. You are free to use whatever method you like best for assignments and projects in this course. Python is a tool to help you solve problems and get work done, there is not one right way to interact with it.
+There are many ways to run python programs. Jupyter notebooks is one method that is particularly well suited to scientific analysis, but depending on the problem or your personal preferences another method may be better. We will explore other ways of running python programs in class. You are free to use whatever method you like best for assignments and projects in this course. Python is a tool to help you solve problems and get work done, there is not one right way to interact with it.
 
 Anconda contains a powerful package and environment management tool called Conda. Later in the course we may need to install an additional Python package or two using Conda. This tool is accessed from the command line. If you are not comfortable with the command line yet, don’t worry, almost everything you need is contained in the initial Anaconda installation. The use of the Conda tool will be demonstrated in lectures when it is required. More information on Conda can be found here: https://conda.io/docs/
 
